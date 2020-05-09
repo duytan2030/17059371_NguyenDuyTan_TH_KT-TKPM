@@ -1,0 +1,6 @@
+C:\Users\NOPE\Desktop\Client_Sever\Client_sim\bin\Debug\Client_sim.exe.config
+C:\Users\NOPE\Desktop\Client_Sever\Client_sim\bin\Debug\Client_sim.exe
+C:\Users\NOPE\Desktop\Client_Sever\Client_sim\bin\Debug\Client_sim.pdb
+C:\Users\NOPE\Desktop\Client_Sever\Client_sim\obj\Debug\Client_sim.csproj.CoreCompileInputs.cache
+C:\Users\NOPE\Desktop\Client_Sever\Client_sim\obj\Debug\Client_sim.exe
+C:\Users\NOPE\Desktop\Client_Sever\Client_sim\obj\Debug\Client_sim.pdb

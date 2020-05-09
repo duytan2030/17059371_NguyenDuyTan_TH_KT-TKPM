@@ -1,0 +1,7 @@
+C:\Users\NOPE\Desktop\Client_Sever\Client_Sever\bin\Debug\Client_Sever.exe.config
+C:\Users\NOPE\Desktop\Client_Sever\Client_Sever\bin\Debug\Client_Sever.exe
+C:\Users\NOPE\Desktop\Client_Sever\Client_Sever\bin\Debug\Client_Sever.pdb
+C:\Users\NOPE\Desktop\Client_Sever\Client_Sever\obj\Debug\Client_Sever.csprojAssemblyReference.cache
+C:\Users\NOPE\Desktop\Client_Sever\Client_Sever\obj\Debug\Client_Sever.csproj.CoreCompileInputs.cache
+C:\Users\NOPE\Desktop\Client_Sever\Client_Sever\obj\Debug\Client_Sever.exe
+C:\Users\NOPE\Desktop\Client_Sever\Client_Sever\obj\Debug\Client_Sever.pdb
